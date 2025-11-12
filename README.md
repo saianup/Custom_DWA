@@ -124,11 +124,12 @@ Then:
 
 A short explanation of the DWA theory followed by the Gazebo demonstration:
 
-### DWA Theory Explanation  
-[![Watch Theory Video](https://img.youtube.com/vi/qPRI2pnHRCs/0.jpg)](https://youtu.be/qPRI2pnHRCs?si=SkHOAJGu3gr8J1pp)
-
-### Gazebo Demonstration  
+### DWA Theory Explanation    
 [![Watch Demo Video](https://img.youtube.com/vi/VPJGWbVfHac/0.jpg)](https://youtube.com/shorts/VPJGWbVfHac?si=R5hOXG8CrPLpUyYB)
+
+
+### Gazebo Demonstration 
+[![Watch Theory Video](https://img.youtube.com/vi/qPRI2pnHRCs/0.jpg)](https://youtu.be/qPRI2pnHRCs?si=SkHOAJGu3gr8J1pp)
 
 
 ## Directory Structure
