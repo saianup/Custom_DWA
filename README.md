@@ -3,12 +3,12 @@
 # Custom DWA Local Planner for ROS 2
 
 ## Overview
-This project implements a **Custom Dynamic Window Approach (DWA) Local Planner** for a **TurtleBot3** robot in **ROS 2 Humble**.  
+This project implements a Custom Dynamic Window Approach (DWA) Local Planner for a TurtleBot3 robot in ROS 2 Humble.  
 The planner generates velocity commands (`/cmd_vel`) to navigate toward a goal while avoiding obstacles using LIDAR data.  
 
-Unlike the standard `nav2_dwb_controller`, this implementation is written from scratch in **Python (`rclpy`)**, allowing a clear understanding of trajectory sampling, scoring, and selection.
+Unlike the standard `nav2_dwb_controller`, this implementation is written from scratch in Python (`rclpy`), allowing a clear understanding of trajectory sampling, scoring, and selection.
 
-Goals can be set interactively through **RViz (2D Goal Pose)**, and the planner visualizes predicted paths and goals in real time.
+Goals can be set interactively through RViz (2D Goal Pose), and the planner visualizes predicted paths and goals in real time.
 
 ---
 
